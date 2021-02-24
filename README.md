@@ -24,7 +24,7 @@ Connect with me [here](https://www.linkedin.com/in/nnarlawar/)!
 
 Clone the repository:
 
-`git clone https://github.com/`
+`git clone https://github.com/nilaynarlawar/Fetch-Rewards.git`
 
 Install the dependencies:
 
