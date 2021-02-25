@@ -12,7 +12,11 @@ Link to [My Resume](https://www.dropbox.com/s/lica27y0r4k4qyq/Nilay_Narlawar_Res
 Connect with me [here](https://www.linkedin.com/in/nnarlawar/)!
 
 ## Description
+This is implemented in SpringBoot and has postman collection also added in Github. I have also integrated with swagger so when you start the local server you should be able to see swagger document at link:
+http://localhost:8080/swagger-ui.html#/transaction-controller
 
+Also you can use postman to make a call for swagger document:
+http://localhost:8080/v2/api-docs (Postman collection has this API too.) 
 
 ## Implementation
 
