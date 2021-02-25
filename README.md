@@ -52,23 +52,25 @@ Java version: 15.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVir
 Default locale: en_US, platform encoding: UTF-8
 OS name: "mac os x", version: "10.16", arch: "x86_64", family: "mac"
 
-3.Add java path and maven to  sudo vi /etc/paths file.
+3.Add java path and maven:
 
-4. Clone the repository:
+>  sudo vi /etc/paths file.
+
+4.Clone the repository:
 
 > `git clone https://github.com/nilaynarlawar/Fetch-Rewards.git`
 
-Install the dependencies:
+5.Install the dependencies:
 
 > mvn clean install
 
-Run the code: 
+6.Run the code:
 
 > mvn spring-boot:run
 
-Open a web browser and test:
+7.Open a web browser and test:
 
-`http://localhost:8080/<api>`
+> `http://localhost:8080/<api>`
 
 
 ## Postman Colletion
