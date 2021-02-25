@@ -79,4 +79,6 @@ IDEs: Intellj or VS Code
 
 ## Postman Colletion
 
-I have created the postman collection to the API's, you can find it [here](https://github.com/nilaynarlawar/Fetch-Rewards/blob/main/FetchRewards.postman_collection.json)
+I have created the postman collection for APIs, you can find it [here](https://github.com/nilaynarlawar/Fetch-Rewards/blob/main/FetchRewards.postman_collection.json). 
+
+Note: Also for ease I have created API for addtransaction 5 times just so that you don't have to keep on changing the body for the API.
