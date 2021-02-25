@@ -1,7 +1,6 @@
 
 ## User's points manager REST API's
 
-This is the coding challenge of Fetch Rewards.
 
 Author: Nilay Narlawar
 
