@@ -1,7 +1,6 @@
-# Fetch Rewards Coding Exercise - Backend Software Engineering
+
 ## User's points manager REST API's
 
-This is the coding challenge of Fetch Rewards.
 
 Author: Nilay Narlawar
 
@@ -33,42 +32,52 @@ I have followed MVC coding standards, so there are service files, model files an
 
 Prerequsite tools and software:
 IDEs: Intellj or VS Code
-> 1. Java 8, JDK,JRE. 
-Link to download: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
-https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
-I have JAVA
-  % java -version
-  java version "15.0.2" 2021-01-19
-  Java(TM) SE Runtime Environment (build 15.0.2+7-27)
-  Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)
-> 2. Maven should be installed.
-Link to download: https://maven.apache.org/download.cgi
- % mvn -version
-Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
-Maven home: /Users/nehanarlawar/Documents/Softwares/apache-maven-3.6.3
-Java version: 15.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
-Default locale: en_US, platform encoding: UTF-8
-OS name: "mac os x", version: "10.16", arch: "x86_64", family: "mac"
 
-4.Add java path and maven to  sudo vi /etc/paths file.
+1. Java 8, JDK,JRE. 
 
-5. Clone the repository:
+> Link to download:
+
+   * https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+   * https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+   * java version "15.0.2" 2021-01-19
+   * Java(TM) SE Runtime Environment (build 15.0.2+7-27)
+   * Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)
+
+2. Maven should be installed.
+
+> Link to download:
+ 
+   * https://maven.apache.org/download.cgi
+   *  % mvn -version
+   * Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+   * Maven home: /Users/nilaynarlawar/Documents/Softwares/apache-maven-3.6.3
+   * Java version: 15.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
+   * Default locale: en_US, platform encoding: UTF-8
+   * OS name: "mac os x", version: "10.16", arch: "x86_64", family: "mac"
+
+3.Add java path and maven:
+
+>  sudo vi /etc/paths file.
+
+4.Clone the repository:
 
 > `git clone https://github.com/nilaynarlawar/Fetch-Rewards.git`
 
-Install the dependencies:
+5.Install the dependencies:
 
 > mvn clean install
 
-Run the code: 
+6.Run the code:
 
 > mvn spring-boot:run
 
-Open a web browser and test:
+7.Open a web browser and test:
 
-`http://localhost:8080/<api>`
+> `http://localhost:8080/<api>`
 
 
 ## Postman Colletion
 
-I have created the postman collection to the API's, you find this [here]()
+I have created the postman collection for APIs, you can find it [here](https://github.com/nilaynarlawar/Fetch-Rewards/blob/main/FetchRewards.postman_collection.json). 
+
+Note: Also for ease I have created API for addtransaction 5 times just so that you don't have to keep on changing the body for the API.
