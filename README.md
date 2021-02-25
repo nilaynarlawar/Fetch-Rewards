@@ -36,23 +36,25 @@ IDEs: Intellj or VS Code
 
 1. Java 8, JDK,JRE. 
 
-> Link to download: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
-https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
-I have JAVA
-  % java -version
-  java version "15.0.2" 2021-01-19
-  Java(TM) SE Runtime Environment (build 15.0.2+7-27)
-  Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)
+> Link to download:
+
+   * https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+   * https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+   * java version "15.0.2" 2021-01-19
+   * Java(TM) SE Runtime Environment (build 15.0.2+7-27)
+   * Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)
 
 2. Maven should be installed.
 
-> Link to download: https://maven.apache.org/download.cgi
- % mvn -version
-Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
-Maven home: /Users/nehanarlawar/Documents/Softwares/apache-maven-3.6.3
-Java version: 15.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
-Default locale: en_US, platform encoding: UTF-8
-OS name: "mac os x", version: "10.16", arch: "x86_64", family: "mac"
+> Link to download:
+ 
+   * https://maven.apache.org/download.cgi
+   *  % mvn -version
+   * Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+   * Maven home: /Users/nilaynarlawar/Documents/Softwares/apache-maven-3.6.3
+   * Java version: 15.0.2, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
+   * Default locale: en_US, platform encoding: UTF-8
+   * OS name: "mac os x", version: "10.16", arch: "x86_64", family: "mac"
 
 3.Add java path and maven:
 
