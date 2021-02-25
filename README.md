@@ -33,6 +33,7 @@ I have followed MVC coding standards, so there are service files, model files an
 
 Prerequsite tools and software:
 IDEs: Intellj or VS Code
+
 1. Java 8, JDK,JRE. 
 
 > Link to download: https://www.oracle.com/java/technologies/javase-jre8-downloads.html
@@ -42,6 +43,7 @@ I have JAVA
   java version "15.0.2" 2021-01-19
   Java(TM) SE Runtime Environment (build 15.0.2+7-27)
   Java HotSpot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)
+
 2. Maven should be installed.
 
 > Link to download: https://maven.apache.org/download.cgi
